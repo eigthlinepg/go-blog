@@ -1,2 +1,2 @@
 # go-blog
-blog
+simple blog
